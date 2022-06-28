@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Bhuvan!
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning HTML, CSS, Java, C
+- 💞️ I’m looking to collaborate on projects and internships 
+- 📫 You can reach me by my contact number 7676913877 or can mail me to bhuvankumar3877@gmail.com
