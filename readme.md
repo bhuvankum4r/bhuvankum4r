@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhuvan</h1>
-<h3 align="center">Engineering student with aspiration of being Data Scientist</h3>
+<h3 align="center">Currently Associate Software Engineer in Motorola working on Android Development using Kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvankum4r&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvankum4r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvankum4r" alt="bhuvankum4r" /></a> </p>
 
-- 🌱 I’m currently learning **C, Java, Python, FrontEnd Web Dev**
+- 🌱 I’m currently learning **Kotlin & Jetpack Compose**
 
 - 📫 How to reach me **bhuvankumar3877@gmail.com**
 
